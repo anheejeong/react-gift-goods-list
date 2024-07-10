@@ -1,6 +1,6 @@
 ## ✏️ 요구사항
 
-### Week 1
+### Week 3
 
 📝 1단계
 
@@ -15,3 +15,9 @@
 - Theme 페이지 - 상품 목록 섹션
     - [ ] **`/api/v1/themes/{themeKey}/products`**
     - [ ] API 요청 시 한번에 20개의 상품 목록이 내려오도록
+
+📝 2단계
+
+- API **Loading** 상태 UI 구현 및 연결
+- **데이터가 없는 경우** UI 구현 및 연결
+- HTTP Status에 따라 **Error** 처리
